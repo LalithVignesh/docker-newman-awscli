@@ -1,4 +1,4 @@
-FROM postman/newman_ubuntu1404:latest
+FROM postman/newman_ubuntu1404
 
 WORKDIR /aws
 
